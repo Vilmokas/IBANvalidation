@@ -1,3 +1,3 @@
 # IBANvalidation
 
-Unfinished task for a IBAN validation app using Java.
+Unfinished task for an IBAN validation app using Java.
